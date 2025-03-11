@@ -1,0 +1,17 @@
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\bin\Debug\HeThongQuanLyBanHang.exe.config
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\bin\Debug\HeThongQuanLyBanHang.exe
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\bin\Debug\HeThongQuanLyBanHang.pdb
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\bin\Debug\Guna.UI2.dll
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.csproj.AssemblyReference.cache
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.frmDangKyTaiKhoan.resources
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.Properties.Resources.resources
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.csproj.GenerateResource.cache
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQ.C5CAE1C5.Up2Date
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.exe
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.pdb
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.frmDangNhap.resources
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.frmMain.resources
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.HangHoa.frmHangHoa.resources
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.ĐonHang.frmDonHang.resources
+D:\File Các Môn Học\Đồ Án CDIO2\HeThongQuanLyBanHang\HeThongQuanLyBanHang\obj\Debug\HeThongQuanLyBanHang.frmChiTietDonHang.resources
