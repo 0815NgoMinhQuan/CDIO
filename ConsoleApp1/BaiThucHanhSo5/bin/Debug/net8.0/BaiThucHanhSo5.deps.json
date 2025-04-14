@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BaiThucHanhSo5/1.0.0": {
+        "runtime": {
+          "BaiThucHanhSo5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiThucHanhSo5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

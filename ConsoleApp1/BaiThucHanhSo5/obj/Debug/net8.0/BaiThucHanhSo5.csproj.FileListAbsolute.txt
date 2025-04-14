@@ -1,0 +1,14 @@
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\bin\Debug\net8.0\BaiThucHanhSo5.exe
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\bin\Debug\net8.0\BaiThucHanhSo5.deps.json
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\bin\Debug\net8.0\BaiThucHanhSo5.runtimeconfig.json
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\bin\Debug\net8.0\BaiThucHanhSo5.dll
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\bin\Debug\net8.0\BaiThucHanhSo5.pdb
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\BaiThucHanhSo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\BaiThucHanhSo5.AssemblyInfoInputs.cache
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\BaiThucHanhSo5.AssemblyInfo.cs
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\BaiThucHanhSo5.csproj.CoreCompileInputs.cache
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\BaiThucHanhSo5.dll
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\refint\BaiThucHanhSo5.dll
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\BaiThucHanhSo5.pdb
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\BaiThucHanhSo5.genruntimeconfig.cache
+C:\Users\mtrang\source\repos\ConsoleApp1\BaiThucHanhSo5\obj\Debug\net8.0\ref\BaiThucHanhSo5.dll

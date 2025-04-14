@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C731B3-1B93-4575-9671-1B52FEE6E1DC}|BaiThucHanhSo5\\BaiThucHanhSo5.csproj|c:\\users\\mtrang\\source\\repos\\consoleapp1\\baithuchanhso5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C731B3-1B93-4575-9671-1B52FEE6E1DC}|BaiThucHanhSo5\\BaiThucHanhSo5.csproj|solutionrelative:baithuchanhso5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C731B3-1B93-4575-9671-1B52FEE6E1DC}|BaiThucHanhSo5\\BaiThucHanhSo5.csproj|c:\\users\\mtrang\\source\\repos\\consoleapp1\\baithuchanhso5\\baithuchanhso5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8C731B3-1B93-4575-9671-1B52FEE6E1DC}|BaiThucHanhSo5\\BaiThucHanhSo5.csproj|solutionrelative:baithuchanhso5\\baithuchanhso5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97EE363-8F06-4AC2-AAD6-231748EEF8EF}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mtrang\\source\\repos\\consoleapp1\\consoleapp1\\qlxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97EE363-8F06-4AC2-AAD6-231748EEF8EF}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\qlxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\QLSinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiThucHanhSo5\\QLSinhVien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\SinhVienDienTu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiThucHanhSo5\\SinhVienDienTu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\SinhVienKCNTT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BaiThucHanhSo5\\SinhVienKCNTT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\Program.cs",
+              "RelativeDocumentMoniker": "BaiThucHanhSo5\\Program.cs",
+              "ToolTip": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\Program.cs",
+              "RelativeToolTip": "BaiThucHanhSo5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:39:54.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLSinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\QLSinhVien.cs",
+              "RelativeDocumentMoniker": "BaiThucHanhSo5\\QLSinhVien.cs",
+              "ToolTip": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\QLSinhVien.cs",
+              "RelativeToolTip": "BaiThucHanhSo5\\QLSinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:39:28.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SinhVienDienTu.cs",
+              "DocumentMoniker": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\SinhVienDienTu.cs",
+              "RelativeDocumentMoniker": "BaiThucHanhSo5\\SinhVienDienTu.cs",
+              "ToolTip": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\SinhVienDienTu.cs",
+              "RelativeToolTip": "BaiThucHanhSo5\\SinhVienDienTu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:38:49.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinhVienKCNTT.cs",
+              "DocumentMoniker": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\SinhVienKCNTT.cs",
+              "RelativeDocumentMoniker": "BaiThucHanhSo5\\SinhVienKCNTT.cs",
+              "ToolTip": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\SinhVienKCNTT.cs",
+              "RelativeToolTip": "BaiThucHanhSo5\\SinhVienKCNTT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:37:24.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiThucHanhSo5.csproj",
+              "DocumentMoniker": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\BaiThucHanhSo5.csproj",
+              "RelativeDocumentMoniker": "BaiThucHanhSo5\\BaiThucHanhSo5.csproj",
+              "ToolTip": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\BaiThucHanhSo5\\BaiThucHanhSo5.csproj",
+              "RelativeToolTip": "BaiThucHanhSo5\\BaiThucHanhSo5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T12:51:59.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLXE.cs",
+              "DocumentMoniker": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\ConsoleApp1\\QLXE.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\QLXE.cs",
+              "ToolTip": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\ConsoleApp1\\QLXE.cs",
+              "RelativeToolTip": "ConsoleApp1\\QLXE.cs",
+              "ViewState": "AgIAAAwAAABAzczMzMwfwBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T11:59:55.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J88VG4nCVfM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mtrang\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mtrang\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.14\\microsoft.dotnet.ilcompiler.8.0.14.nupkg.sha512",
+    "C:\\Users\\mtrang\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
+    "C:\\Users\\mtrang\\.nuget\\packages\\runtime.win-arm64.microsoft.dotnet.ilcompiler\\8.0.14\\runtime.win-arm64.microsoft.dotnet.ilcompiler.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
